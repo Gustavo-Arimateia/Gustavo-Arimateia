@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Gustavo Alexandre de Arimateia from Divinópolis, MG.<br><br>- 🔭 I’m working at Petrarca Software<br>- 📚 I'm currently learning API RestFull and continuously improving my skills to build robust and scalable applications.<br>- ⚡ In my free time I enjoy practicing sports, learning new things, and solving new challenges.</p>
+<p align="left">I'm Gustavo Alexandre de Arimateia from Divinópolis, MG.<br><br>- 🔭 I’m working at Makro System <br>- 📚 I'm currently learning API RestFull and continuously improving my skills to build robust and scalable applications.<br>- ⚡ In my free time I enjoy practicing sports, learning new things, and solving new challenges.</p>
 
 ###
 
